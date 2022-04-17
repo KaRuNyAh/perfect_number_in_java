@@ -27,6 +27,8 @@ public class Main
 }
 
 
+//n=6:
+// when you get n=sum of its factors then its a perfect number
 
     
 
